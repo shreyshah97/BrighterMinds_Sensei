@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Shrey\\AndroidStudioProjects\\brighterminds-relax\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Shrey\\.android\\build-cache\\42ec4860a9ce6059aceb38e92666c39bd8768ef9\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shrey\\AndroidStudioProjects\\brighterminds-relax\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Shrey\\.android\\build-cache\\42ec4860a9ce6059aceb38e92666c39bd8768ef9\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shrey\\AndroidStudioProjects\\brighterminds-relax\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Shrey\\.android\\build-cache\\42ec4860a9ce6059aceb38e92666c39bd8768ef9\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shrey\\AndroidStudioProjects\\brighterminds-relax\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\activity_main.xml",
+        "source": "C:\\Users\\Shrey\\AndroidStudioProjects\\brighterminds-relax\\app\\src\\main\\res\\layout-v21\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shrey\\AndroidStudioProjects\\brighterminds-relax\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Shrey\\.android\\build-cache\\42ec4860a9ce6059aceb38e92666c39bd8768ef9\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

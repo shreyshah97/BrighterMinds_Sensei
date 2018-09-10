@@ -1,0 +1,7 @@
+#Thu Jul 13 12:01:34 IST 2017
+base.0=C\:\\Users\\Shrey\\AndroidStudioProjects\\brighterminds-relax\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bc180f4e8ca2e88f6bbaa419cdbdfd69c7e38457
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Shrey\\AndroidStudioProjects\\brighterminds-relax\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_09ee7d8798b8f8191d29346c4919ac5388ed1bad\\classes.dex
+base.1=C\:\\Users\\Shrey\\AndroidStudioProjects\\brighterminds-relax\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_09ee7d8798b8f8191d29346c4919ac5388ed1bad
+file.0=C\:\\Users\\Shrey\\AndroidStudioProjects\\brighterminds-relax\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bc180f4e8ca2e88f6bbaa419cdbdfd69c7e38457\\classes.dex

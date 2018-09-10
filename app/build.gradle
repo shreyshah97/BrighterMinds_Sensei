@@ -1,0 +1,41 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '25.0.0'
+
+    defaultConfig {
+        applicationId "org.brighterminds.relaxationapp"
+        minSdkVersion 16
+        targetSdkVersion 25
+        versionCode 4
+        versionName "1.4"
+    }
+    signingConfigs {
+        release {
+            storeFile file("app.keystore")
+            storePassword "changeit"
+            keyAlias "brighterminds"
+            keyPassword "changeit"
+            v2SigningEnabled true
+        }
+    }
+    buildTypes {
+        debug {
+            buildConfigField "String", "SERVER_URL", "\"http://52.87.234.182/esquare-server\""
+            minifyEnabled false
+        }
+        release {
+            buildConfigField "String", "SERVER_URL", "\"https://axon.brighterminds.org/esquare-server\""
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:25.1.1'
+    compile 'com.android.support:design:25.1.1'
+}
